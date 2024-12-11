@@ -253,3 +253,9 @@ docker run -v /etc/docker/config:/iptv-api-lite/config -v /etc/docker/output:/ip
 ## 许可证
 
 [MIT](./LICENSE) License &copy; 2024-PRESENT [Govin](https://github.com/guovin)
+
+
+EPG
+https://epg.112114.xyz/                   
+https://diyp.112114.xyz/                     
+https://epg.112114.eu.org/  
